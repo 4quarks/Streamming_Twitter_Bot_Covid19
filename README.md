@@ -1,4 +1,8 @@
-# Veracidad en tiempos de coronavirus
+# Hack covid from home 
+
+URL hackathon: https://livehfh.hackersatupc.org/#/faq
+
+## Veracidad en tiempos de coronavirus
 
 
 **Link al bot:** http://t.me/Covid_news_bot
@@ -8,7 +12,7 @@ En estos tiempos de cuarentena no paran de llegar rumores de todo tipo. Hemos qu
 El sistema se basa en la interacción de un usuario con un bot de telegram.
 
 
-![diagram](/img/diagram.png)
+![diagram](/img/hack_covid.png)
 
 Nada más entrar, se encuentra con el siguiente menú:
 
