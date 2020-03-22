@@ -4,9 +4,6 @@ URL hackathon: https://livehfh.hackersatupc.org/#/faq
 
 ## Veracidad en tiempos de coronavirus
 
-
-**Link al bot:** http://t.me/Covid_news_bot
-
 En estos tiempos de cuarentena no paran de llegar rumores de todo tipo. Hemos querido hacer nuestra pequeña contribución al respecto e intentar aportar un poco de rigor a toda la (des)información que nos llega.
 
 El sistema se basa en la interacción de un usuario con un bot de telegram.
