@@ -28,3 +28,6 @@ Las opciones existentes son:
 Al acabar la conversación, se le enviará al usuario un pequeño report sobre su contribución al sistema:
 
 ![report](/img/report.jpeg)
+
+![report](/img/c1.jpeg)
+![report](/img/c2.jpeg)
